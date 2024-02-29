@@ -6,7 +6,7 @@ About Me
 🌐 Location: Earth 🌍 (specifically, wherever there’s Wi-Fi)
 🎂 Date of Birth: May 5, 2007 🎉
 📧 Contact Email: izhaandar06@gmail.com 📬
-What I Do
+What I Do: 
 I wear multiple hats in the tech world:
 
 Frontend Development 🎨
