@@ -29,7 +29,7 @@ When I’m not coding, you’ll find me sipping coffee ☕ and dreaming of elega
 Connect with Me 🌟
 Feel free to reach out! Whether it’s a coding challenge, a project idea, or just a friendly chat, I’m all ears. 💌
 
-Let’s connect on LinkedIn: Mohammad Izhaan 👈
+Let’s connect on LinkedIn: Muhammad Izhaan 👈
 
 Thanks for stopping by! Happy coding! 🚀
 
