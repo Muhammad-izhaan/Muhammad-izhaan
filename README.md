@@ -5,7 +5,7 @@ About Me
 🌟 Name: Mohammad Izhaan
 🌐 Location: Earth 🌍 (specifically, wherever there’s Wi-Fi)
 🎂 Date of Birth: May 5, 2007 🎉
-📧 Contact Email: izhaandar06@gmail.com 📬
+📧 Contact Email: mohammadizhan710@gmail.com 📬
 What I Do: 
 I wear multiple hats in the tech world:
 
