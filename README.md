@@ -1,28 +1,18 @@
-Hi there! 👋
-I’m Mohammad Izhaan, a passionate developer with a love for all things code. Welcome to my GitHub profile!
-
-About Me
-🌟 Name: Mohammad Izhaan
-🌐 Location: Earth 🌍 (specifically, wherever there’s Wi-Fi)
-🎂 Date of Birth: May 5, 2007 🎉
-📧 Contact Email: mohammadizhan710@gmail.com 📬
-What I Do: 
-I wear multiple hats in the tech world:
-
-Frontend Development 🎨
-I create beautiful and user-friendly interfaces using HTML, CSS, and JavaScript. Making websites come alive is my jam! 💻
-
-Backend Development 🌐
-I dive into the server-side realm, building robust APIs and handling data like a pro. Python, Node.js, and PHP are my trusty companions. 🔥
-
-Android Development 📱
-Mobile apps? Yes, please! I’m exploring the Android ecosystem, crafting apps that make life easier and more enjoyable. 📲
-
-Learning Journey 📚
-Currently, I’m sharpening my skills in:
-
-JavaScript (JS): The language that powers the web. 🌐
-PHP: For server-side magic. 💡
-python!
+# 💫 About Me:
+Hi there, I'm Muhammad Izhaan! 👋  <br><br>🚀 Full-Stack Developer | Tech Enthusiast | Innovator<br><br>I'm a passionate full-stack developer with experience in building interactive and scalable web applications. I specialize in React, Node.js, and Tailwind CSS, and I'm currently exploring Flask to expand my backend expertise.  <br><br>💡 Tech Stack: React, Node.js, Express, Tailwind CSS, MongoDB, Flask (Learning)  <br>🛠️ Projects:<br>- Blockchain-based Tap Coin Currency** – A real-time transferable cryptocurrency system.  <br>- Visual AI Chatbot– An advanced chatbot with AI-powered visual interaction.  <br>-Portfolio Websites, Social Media UI, Expense Tracker, To-Do List App, and more!<br><br>🌍 Interests: Blockchain, AI, Full-Stack Development, and Scalable Web Solutions  <br><br><br><br>Always eager to build innovative solutions and collaborate on exciting projects! 🚀
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izhaaaannnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadizhan710@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-izhaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-izhaan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-izhaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Muhammad-izhaan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
